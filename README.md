@@ -42,6 +42,8 @@ To install the necessary libraries:
 
 ```bash
 pip install PyQt5 PyPDF2
+
+
 # Gallery of Images
 
 ![Image 1](./image1.jpg)
