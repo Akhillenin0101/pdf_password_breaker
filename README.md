@@ -43,11 +43,11 @@ To install the necessary libraries:
 ```bash
 pip install PyQt5 PyPDF2
 
-
+---
 # Gallery of Images
 
-![Image 1](./image1.jpg)
-![Image 2](./image2.jpg)
-![Image 3](./image3.jpg)
-![Image 4](./image4.jpg)
+![Image 1](image1.jpg)
+![Image 2](image2.jpg)
+![Image 3](image3.jpg)
+![Image 4](image4.jpg)
 
