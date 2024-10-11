@@ -44,8 +44,8 @@ To install the necessary libraries:
 pip install PyQt5 PyPDF2
 # Gallery of Images
 
-![Image 1](./image1.png)
-![Image 2](./image2.png)
-![Image 3](./image3.png)
-![Image 4](./image4.png)
+![Image 1](./image1.jpg)
+![Image 2](./image2.jpg)
+![Image 3](./image3.jpg)
+![Image 4](./image4.jpg)
 
